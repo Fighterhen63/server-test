@@ -1,5 +1,4 @@
-[21:57:42] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[21:57:42] [Server thread/INFO]: Loading properties
-[21:57:42] [Server thread/WARN]: Failed to load eula.txt
-[21:57:42] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
-[21:57:42] [Server thread/INFO]: Stopping server
+[21:59:45] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[21:59:45] [Server thread/INFO]: Loading properties
+[21:59:45] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[21:59:45] [Server thread/INFO]: Stopping server
